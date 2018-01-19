@@ -1,0 +1,1 @@
+# rime-flypy-for-mac
